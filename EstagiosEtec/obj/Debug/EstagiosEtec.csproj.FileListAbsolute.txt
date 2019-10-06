@@ -1,0 +1,1225 @@
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+C:\Users\etec\Desktop\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\novotccestagio\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+K:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+K:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+K:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+J:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+J:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+J:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+J:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+J:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+J:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+J:\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+J:\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+J:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+J:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+J:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+J:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+J:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+J:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+F:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+F:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+F:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+F:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+F:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+F:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+F:\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+F:\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+F:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+F:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+F:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+F:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+F:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+F:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+I:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+I:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+I:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+D:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+D:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+D:\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+D:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+D:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+D:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+D:\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+D:\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+D:\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+D:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+D:\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+D:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+D:\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+J:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\tcc.1.3\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+C:\Users\etec\Desktop\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+F:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Linq.Dynamic.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\WebGrease.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.Razor.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.2\EstagiosEtec\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EstagiosEtec.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EntityFramework.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Owin.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\WebGrease.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EntityFramework.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\etec\Desktop\2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+C:\Users\etec\Desktop\2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Owin.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\WebGrease.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Owin.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\WebGrease.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\INFONET 3º MODULO\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Owin.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\WebGrease.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+I:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Owin.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\WebGrease.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll.config
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EstagiosEtec.pdb
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Owin.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Linq.Dynamic.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\WebGrease.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Helpers.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Mvc.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Optimization.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.Razor.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Newtonsoft.Json.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Antlr3.Runtime.pdb
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+F:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+F:\TCC Completo\tcc2.3\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll.config
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.pdb
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Owin.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Linq.Dynamic.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\WebGrease.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.pdb
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+K:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+K:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll.config
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.pdb
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Owin.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Linq.Dynamic.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\WebGrease.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.pdb
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+I:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+I:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.pdb
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll.config
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EstagiosEtec.pdb
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Web.Infrastructure.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Owin.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Linq.Dynamic.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\WebGrease.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Helpers.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Mvc.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Optimization.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.Razor.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Deployment.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\System.Web.WebPages.Razor.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Newtonsoft.Json.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Antlr3.Runtime.pdb
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\EntityFramework.SqlServer.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Core.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Facebook.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Cookies.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.OAuth.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Google.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.Twitter.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.csprojResolveAssemblyReference.cache
+F:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.dll
+F:\TCC Completo\tcc3.0\EstagiosEtec\obj\Debug\EstagiosEtec.pdb

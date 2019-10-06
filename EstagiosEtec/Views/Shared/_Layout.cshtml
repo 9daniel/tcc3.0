@@ -1,0 +1,203 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Estágios Etec";
+    Layout = null;
+}
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Estágio Etec Parceiros" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- Custom CSS -->
+    <link href="~/Assets/css/style.css" rel='stylesheet' type='text/css' />
+    <!-- font-awesome icons -->
+    <link href="~/Assets/css/fontawesome-all.min.css" rel="stylesheet">
+    <!-- //Custom Theme files -->
+    <!--webfonts-->
+    <link href="//fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <!--//webfonts-->
+   
+    
+</head>
+<body>
+    <!-- /header-top-->
+    <header class="main-header">
+        <nav class="navbar second navbar-expand-lg navbar-light bg-light pagescrollfix">
+            <div class="container">
+                <h1>
+                    <a class="navbar-brand" href="~/Home/Index">
+                        ETEC
+                        <span>Comendador João Rays</span>
+                    </a>
+                </h1>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-toggle" aria-controls="navbarNavAltMarkup1"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse navbar-toggle" id="navbarNavAltMarkup1">
+                    <div class="navbar-nav secondfix ml-lg-auto">
+                        <ul class="navbar-nav text-center">
+                            <li class="nav-item active  mr-3">
+
+
+        
+                                @if (Request.IsAuthenticated)
+                                {
+                                    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+                                    {
+                                        @Html.AntiForgeryToken()
+
+                                        <ul class="nav navbar-nav navbar-right"> 
+                                            <li class="nav-item">
+                                                Bem vindo ! <h4>@User.Identity.GetUserName() <i class="fas fa-child"></i> </h4> 
+                                                <a class="nav-link " href="/Account/LogOff">Sair</a>
+                                            </li>
+                                        </ul>
+                                    }
+                                }
+                                else
+                                {
+                                     <button type="button" class="btn btn-outline-primary">
+                                        @Html.ActionLink("Cadastre-se", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })
+
+                                    </button>
+                                    
+                                    <button type="button" class="btn btn-outline-primary">
+                                        @Html.ActionLink("Login", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })
+                                    </button>
+                                }
+
+
+                                
+                                                    
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </nav>
+    </header>
+
+    <!-- //header -->
+    <div class="container body-content">
+        @RenderBody()
+       <!--<hr />
+        <footer class="footer-2">
+            <div class="container ">
+                <div class="cpy-right text-center py-4">
+                    <p>
+                        &copy; @DateTime.Now.Year - Centro Paula Souza
+                    </p>
+                </div>
+            </div>
+        </footer>--> 
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <!-- /Footer -->
+    <!-- js-->
+    <!--<script src="~/Assets/js/jquery-2.2.3.min.js"></script>-->
+    <!-- js-->
+    <!-- Scrolling Nav JavaScript -->
+    <script src="~/Assets/js/scrolling-nav.js"></script>
+    <!-- //fixed-scroll-nav-js -->
+    <script>
+        $(window).scroll(function () {
+            if ($(document).scrollTop() > 70) {
+                $('nav.pagescrollfix,nav.RWDpagescrollfix').addClass('shrink');
+            } else {
+                $('nav.pagescrollfix,nav.RWDpagescrollfix').removeClass('shrink');
+            }
+        });
+    </script>
+    <!-- Banner text Responsiveslides -->
+    <script src="~/Assets/js/responsiveslides.min.js"></script>
+    <script>
+        // You can also use"$(window).load(function() {"
+        $(function () {
+            // Slideshow 4
+            $("#slider3").responsiveSlides({
+                auto: true,
+                pager: true,
+                nav: false,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+    <!-- //Banner text  Responsiveslides -->
+    <!-- start-smooth-scrolling -->
+    <script src="~/Assets/js/move-top.js"></script>
+    <script src="~/Assets/js/easing.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smooth-scrolling -->
+    <!-- smooth-scrolling-of-move-up -->
+    <script>
+        $(document).ready(function () {
+            /*
+			 var defaults = {
+				 containerID: 'toTop', // fading element id
+				 containerHoverID: 'toTopHover', // fading element hover id
+				 scrollSpeed: 1200,
+				 easingType: 'linear'
+			 };
+			 */
+
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <script src="~/Assets/js/SmoothScroll.min.js"></script>
+    <!-- //smooth-scrolling-of-move-up -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Assets/js/bootstrap.js">
+    </script>
+    <!-- //Bootstrap Core JavaScript -->
+</body>
+
+</html>
+

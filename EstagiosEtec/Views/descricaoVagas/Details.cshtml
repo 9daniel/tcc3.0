@@ -1,0 +1,66 @@
+﻿@model EstagiosEtec.Models.descricaoVaga
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Dados</h2>
+
+<div>
+    <h4>Descrição da Vaga</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tipoVaga.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tipoVaga.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diaPublicacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diaPublicacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataMaxima)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataMaxima)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.empresa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.empresa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.valor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.valor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

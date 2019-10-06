@@ -1,0 +1,785 @@
+﻿@{
+    ViewBag.Title = "Estágios Etec";
+    Layout = null;
+}
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>@ViewBag.Title</title>
+    <link rel="shortcut icon" href="../Assets/images/run-icon.png" /> <!--Comando para colocar icone no começo da página -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Estágio Etec Parceiros" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- Custom CSS -->
+    <link href="~/Assets/css/style.css" rel='stylesheet' type='text/css' />
+    <!-- font-awesome icons -->
+    <link href="~/Assets/css/fontawesome-all.min.css" rel="stylesheet">
+    <!-- //Custom Theme files -->
+    <!--webfonts-->
+    <link href="//fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <!--//webfonts-->
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <div id="home">
+
+        <!-- /header-top-->
+        <header class="main-header">
+            <nav class="navbar second navbar-expand-lg navbar-light bg-light pagescrollfix">
+                <div class="container">
+                    <h1>
+                        <a class="navbar-brand" href="#home">
+                            ETEC
+                            <span>Comendador João Rays</span>
+                        </a>
+                    </h1>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-toggle" aria-controls="navbarNavAltMarkup1"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse navbar-toggle" id="navbarNavAltMarkup1">
+                        <div class="navbar-nav secondfix ml-lg-auto">
+                            <ul class="navbar-nav text-center">
+                                <li class="nav-item  mr-3">
+                                    <a class="nav-link scroll" href="#home">
+                                        inicio
+                                        <span class="sr-only">(current)</span>
+                                    </a>
+                                </li>
+                                <li class="nav-item  mr-3">
+                                    <a class="nav-link scroll" href="#about">O Projeto</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link scroll" href="#services">vagas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link scroll" href="#contact">Contato</a>
+                                </li>
+
+                                <li class="nav-item dropdown mr-3">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                       aria-expanded="false">
+                                        mais
+                                    </a>
+                                    <div class="dropdown-menu text-lg-left text-center" aria-labelledby="navbarDropdown">
+
+                                        <a class="dropdown-item scroll nav-link" href="#sub-services">Cursos</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item scroll nav-link" href="#testi">Comentários</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item scroll nav-link" href="#blog">Eventos</a>
+
+                                    </div>
+                                </li>
+
+
+
+                                <a href="/Account/Login" title="Login" class="btn btn-danger">
+                                    <span class="icon"></span> Login
+                                </a>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        </section>
+        <!-- //header -->
+        <!-- banner -->
+        <div class="banner">
+            <div class="container">
+                <div class="banner-text-agile">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <!-- Carousel -->
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <h3 class="b-w3ltxt text-capitalize mt-md-4">
+                                            <span></span> CONTABILIDADE
+                                        </h3>
+                                        <p class="mt-2">
+                                            Gerenciamento de tickets relacionados a suporte técnico;Suporte telefônico Repasse,
+                                            de forma autônoma.
+                                        </p>
+                                        <a class="btn btn-banner mt-md-3 mt-2 text-capitalize scroll" href="#services" role="button">Veja mais</a>
+                                    </div>
+                                    <!-- slider text -->
+                                    <div class="carousel-item">
+                                        <h3 class="b-w3ltxt text-capitalize mt-md-4">
+                                            <span></span>ADMINISTRAÇÃO
+                                        </h3>
+                                        <p class="mt-2">O Estagiário Administrativo irá atuar com atendimento, elaboração de planilhas, confecção de relatórios.</p>
+                                        <a class="btn btn-banner mt-md-3 mt-2 text-capitalize scroll" href="#services" role="button">Veja mais</a>
+                                    </div>
+                                    <!-- slider text -->
+                                    <div class="carousel-item text-white">
+                                        <h3 class="b-w3ltxt  text-capitalize mt-md-4">
+                                            <span></span> INFORMÁTICA
+                                        </h3>
+                                        <p class="mt-2"> Assessoramento em mídia social e apoio na parte de informática da empresa.</p>
+                                        <a class="btn btn-banner mt-md-3 mt-2 text-capitalize scroll" href="#services" role="button">Veja mais</a>
+                                    </div>
+                                    <!-- slider text -->
+                                </div>
+                            </div>
+                            <!-- Carousel -->
+                        </div>
+                        <div class="offset-lg-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- //banner -->
+        <!-- banner bottom -->
+        <div class="serv_bottom py-sm-5 py-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <h4 class="agile-ser_bot text-light ">A Etec é uma escola que, oferece cursos de nível médio e técnico .</h4>
+                        <p class="text-secondary">São cursos com duração de 1 ano e meio...</p>
+                    </div>
+                    <div class="col-lg-4 my-lg-auto mt-3 text-lg-right">
+                        <a href="#sub-services" class="text-capitalize serv_link btn scroll">Ver Cursos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- //banner-bottom -->
+        <!-- about-->
+        <section class="wthree-row py-sm-5" id="about">
+            <!----><div class="container py-md-5">
+                <div class="row abbot-main py-lg-5 py-4">
+                    <div class="col-lg-6 abbot-right">
+                        <span></span>
+                        <img src="~/Assets/images/slide.png" class="img-fluid" alt="" />
+                    </div>
+                    <div class="col-lg-6 about-text-grid">
+                        <h3 class="stat-title">
+                            Ideia do projeto
+                        </h3>
+                        <p class="mt-md-5 mt-3">
+                            Nós alunos da Etec
+                        </p>
+                        <p class="my-4">
+                            Desenvolvemos um website de gerenciamento de estágio,
+                            deixando mais fácil o trabalho do coordenador de estágio, evitando matrículas em estágios de baixa qualidade e
+                            aumentando o controle sobre os estagiários e a participação dos mesmos em relação à disciplina.
+                        </p>
+
+                        <a href="#services" class="text-capitalize serv_link btn bg-theme scroll">Próximo</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- //about -->
+        <!-- services -->
+        <section class="services-w3sec py-5" id="services">
+            <div class="container">
+                <div class="agileabt-w3 py-lg-5">
+                    <div class="w3l-head text-center  pb-5">
+                        <h3 class="stat-title">
+                            Vagas de Estágios
+                        </h3>
+                        <p class="sec-title">
+                            Só aqui você encontra as melhores vagas de estágios, de acordo com suas capacidades.
+                        </p>
+                    </div>
+                    <div class="row py-lg-5">
+                        <!-- Table #1  -->
+                        <div class="col-lg-4">
+                            <div class="w3ls-pricing card">
+                                <div class="card-header">
+                                    <h4 class="serv-title">
+                                        ADMINISTRAÇÃO
+                                    </h4>
+                                </div>
+                                <div class="card-block">
+                                    <p class="card-title price-title">
+                                        Cargo: Estágio em Administração.
+                                        Salário: 700,00.
+                                        Cidade: Barra-Bonita -SP.
+                                        Requisitos: Cursando administração de empresas, marketing ou áreas afins;
+                                        disponibilidade para o turno da tarde;
+                                      
+                                    </p>
+                                    <a href="/Account/Register" class="text-capitalize price_link btn ">Inscreva-se</a>
+                                </div>
+                                <i class="service-icon far fa-address-book">
+                                </i>
+                            </div>
+                        </div>
+                        <!-- Table #1  -->
+                        <div class="col-lg-4 my-lg-0 my-5">
+                            <div class="w3ls-pricing card service-active">
+                                <div class="card-header">
+                                    <h4 class="serv-title">
+                                        INFORMÁTICA
+                                    </h4>
+                                </div>
+                                <div class="card-block">
+                                    <p class="card-title price-title">
+                                        Cargo: Estágio em TI.
+                                        Cidade: Bauru - SP.
+                                        Requisitos: Estar cursando ensino técnico ou superior na área de TI:
+                                        informática,ciência da computação, 
+                                        engenharia da computação;
+                                    </p>
+                                    <a href="/Account/Register" class="text-capitalize price_link btn ">Inscreva-se</a>
+                                </div>
+                                <i class="service-icon fas fa-laptop">
+                                </i>
+                            </div>
+                        </div>
+                        <!-- Table #1  -->
+                        <div class="col-lg-4 mb-lg-0 mb-5">
+                            <div class="w3ls-pricing card">
+                                <div class="card-header">
+                                    <h4 class="serv-title">
+                                        CONTABILIDADE
+                                    </h4>
+                                </div>
+                                <div class="card-block">
+                                    <p class="card-title price-title">
+                                        Cargo: Estágio Contábil
+                                        Cidade: jaú - SP
+                                        Responsabilidades: Atuar no lançamento de notas fiscais;
+                                        cadastros de operações financeiras;
+                                        Requisitos: Cursando 1º ao 3º ano de contabilidade.
+                                    </p>
+                                    <a href="/Account/Register" class="text-capitalize price_link btn ">Inscreva-se</a>
+                                </div>
+                                <i class="service-icon fas fa-database">
+                                </i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/Account/Login" class="text-capitalize serv_link btn bg-theme ">Mais Estágios</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- //services -->
+        <!-- sub services -->
+        <section class="py-md-5" id="sub-services">
+            <div class="container">
+                <div class="agileabt-w3">
+                    <div class="row py-5">
+                        <div class="col-lg-8">
+
+                            <h3 class="stat-title"> Centro Paula Souza (24 Anos) </h3>
+                            
+                            <ul class="list-group mt-3">
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Administração
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Contabilidade
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Desenvolvimento de Sistemas
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Informática para Internet
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Logística
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>marketing
+                                </li>
+                                <li class="list-group-item border-0">
+                                    <i class="fas fa-check mr-3"></i>Secretariado
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4 grad_video my-lg-auto mt-5">
+                            <img src="~/Assets/images/i1.png" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- //sub services -->
+        <!-- testimonials-->
+        <div class="testimonials" id="testi">
+            <div class="container">
+                <div class="banner-text text-center">
+                    <h3 class="stat-title">
+
+                        Comentários 
+                    </h3>
+                    <div class="callbacks_container">
+                        <ul class="rslides" id="slider3">
+                            <li>
+                                <div class="testi-agile">
+                                    <p>
+                                        <span>"</span>Não é a linguagem de programação que define o programador, mas sim sua lógica. Não se preocupe se não funcionar direito. Se tudo funcionasse, você estaria desempregado.
+                                        <span>"</span>
+                                    </p>
+                                    <div class="testi-pos">
+                                        <img src="~/Assets/images/ts1.jpg" alt="" class="img-fluid rounded-circle" />
+                                        <h4>Edilson Silva</h4>
+                                        <span>Programação</span>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="testi-agile">
+                                    <p>
+                                        <span>"</span>O mundo da moda sempre despertou diversos interessados, seja enquanto admiradores ou aqueles que almejam ingressar profissionalmente nesse mercado. Além disso, essa é uma área muito lucrativa.
+                                        <span>"</span>
+                                    </p>
+                                    <div class="testi-pos">
+                                        <img src="~/Assets/images/ts2.jpg" alt="" class="img-fluid rounded-circle" />
+                                        <h4>Bruna Almeida</h4>
+                                        <span>Designer</span>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="testi-agile">
+                                    <p>
+                                        <span>"</span>No começo eu não acreditava muito, mas com o passar do tempo me identifiquei com o curso. Isto se mostrou de forma mais efetiva quando comecei a trabalhar na área. Hoje, já penso em fazer uma faculdade de TI.
+                                        <span>"</span>
+                                    </p>
+                                    <div class="testi-pos">
+                                        <img src="~/Assets/images/ts3.jpg" alt="" class="img-fluid rounded-circle" />
+                                        <h4>Caique Araújo</h4>
+                                        <span>Informática</span>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- //testimonials -->
+        <!-- branches -->
+        <!-- //branches -->
+        <!-- contact top -->
+        <!-- <div class="contact-top text-center">
+            <div class="content-contact-top">
+                <h3 class="stat-title text-white">Para mais informações</h3>
+                <a href="#contact" class="text-capitalize serv_link btn my-sm-5 my-3 scroll">contate-nós</a>
+                <p class="text-white w-75 mx-auto">
+                    Para se increver em nosso sites serão obrigatórios dois requisitos;
+                    registro escolar do ensino médio, e estar cursando algum curso da intituição Etec.
+                </p>
+            </div>
+        </div> -->
+        <!-- //contact top -->
+        <!-- blog -->
+        <section class="section-events py-5" id="blog">
+            <div class="container py-md-5">
+                <h3 class="stat-title text-center pb-sm-5">
+                    Eventos da Escola
+                </h3>
+                <div class="sub-sec-grid position-relative my-5">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <a href="#">
+                                <img class="card-img-bottom" src="~/Assets/images/ciencia1.jpg" alt="Card image cap">
+                            </a>
+                        </div>
+                        <div class="col-lg-8 date-grid-agile-right">
+                            <div class="card-body">
+                                <h5 class="blog-title card-title font-weight-bold">
+                                    Semana Científica
+                                </h5>
+                                <p class="card-text  mb-5">
+                                    A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro.
+                                </p>
+                                <div class="text-right">
+                                    <a href="#" class="price_link btn">Inicio</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pos-date">
+                            <div class="pos-date__inner">
+                                <h2 class="pos-date__title">12</h2>
+                                <p class="pos-date__subtitle">set</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-sec-grid position-relative">
+                    <div class="row">
+                        <div class="col-lg-8 date-grid-agile-left">
+                            <div class="card-body">
+                                <h5 class="blog-title card-title font-weight-bold">
+                                    Naval da Etec
+                                </h5>
+                                <p class="card-text  mb-5">
+                                    A noite estava tão mágica
+                                    que as estrelas até sorriam
+                                    iluminando nosso coração
+                                    naquela noite de São João.
+                                    <div class="text-right">
+                                        <a href="#" class="price_link btn">Inicio</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <a href="#">
+                                <img class="card-img-bottom" src="~/Assets/images/festa.jpg" alt="Card image cap">
+                            </a>
+                        </div>
+                        <div class="pos-date-even">
+                            <div class="pos-date__inner">
+                                <h2 class="pos-date__title">16</h2>
+                                <p class="pos-date__subtitle">junho</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-sec-grid position-relative my-5">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <a href="#">
+                                <img class="card-img-bottom" src="~/Assets/images/fute.jpg" alt="Card image cap">
+                            </a>
+                        </div>
+                        <div class="col-lg-8 date-grid-agile-right">
+                            <div class="card-body">
+                                <h5 class="blog-title card-title font-weight-bold">
+                                    Torneio Interclasse
+                                </h5>
+                                <p class="card-text  mb-5">
+                                    Sempre lute com garra e determinação pelos seus ideais.
+                                    O verdadeiro campeão é aquele que acredita na Vitória !
+                                </p>
+                                <div class="text-right">
+                                    <a href="#" class="price_link btn">Inicio</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pos-date">
+                            <div class="pos-date__inner">
+                                <h2 class="pos-date__title">27</h2>
+                                <p class="pos-date__subtitle">julho</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-sec-grid position-relative">
+                    <div class="row">
+                        <div class="col-lg-8 date-grid-agile-left">
+                            <div class="card-body">
+                                <h5 class="blog-title card-title font-weight-bold">
+                                    Show de Talento
+                                </h5>
+                                <p class="card-text  mb-5">
+                                    Ninguém pode chegar ao topo armado apenas de talento. Deus dá o talento; o trabalho transforma o talento em gênio.
+                                </p>
+                                <div class="text-right">
+                                    <a href="#" class="price_link btn">Inicio</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <a href="#">
+                                <img class="card-img-bottom" src="~/Assets/images/showw.jpg" alt="Card image cap">
+                            </a>
+                        </div>
+                        <div class="pos-date-even">
+                            <div class="pos-date__inner">
+                                <h2 class="pos-date__title">14</h2>
+                                <p class="pos-date__subtitle">abril</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- //blog -->
+        <!-- contact -->
+        <div class="w3-contact py-5" id="contact">
+            <div class="container py-lg-5">
+                <h3 class="stat-title text-center pb-5">
+                    Contato
+                </h3>
+                <div class="row contact-form pt-lg-5">
+                    <!-- contact details -->
+                    <div class="col-lg-6 contact-bottom d-flex flex-column contact-right-w3ls">
+                        <h5>ENTRAR EM CONTATO</h5>
+                        <div class="fv3-contact">
+                            <div class="row">
+                                <div class="col-2">
+                                    <span class="fas fa-envelope-open"></span>
+                                </div>
+                                <div class="col-10 contact-add">
+                                    <h6>email</h6>
+                                    <p>
+                                        <a href="https://www.vestibulinhoetec.com.br/home/" class="text-dark">vestibulinhoetec.com.br</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fv3-contact my-4">
+                            <div class="row">
+                                <div class="col-2">
+                                    <span class="fas fa-phone-volume"></span>
+                                </div>
+                                <div class="col-10 contact-add">
+                                    <h6>Telefone</h6>
+                                    <p>(14) 3641-1310</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fv3-contact">
+                            <div class="row">
+                                <div class="col-2">
+                                    <span class="fas fa-home"></span>
+                                </div>
+                                <div class="col-10 contact-add">
+                                    <h6>Endereço</h6>
+                                    <p>Rua Ludovico Victório, 2140 - Vila Hab., Barra Bonita - SP</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wthree-form-left my-lg-0 mt-5">
+                        <h5>ENVIE-NOS UM EMAIL</h5>
+                        <!-- contact form grid -->
+                        <div class="contact-top1">
+                            <form action="#" method="get" class="contact-wthree">
+                                <div class="form-group d-flex">
+                                    <label>
+                                        Nome
+                                    </label>
+                                    <input class="form-control" type="text" placeholder="Digite seu nome" name="email" required="">
+                                </div>
+                                <div class="form-group d-flex">
+                                    <label>
+                                        Email
+                                    </label>
+                                    <input class="form-control" type="email" placeholder="example@email.com" name="email" required="">
+                                </div>
+                                <div class="form-group d-flex">
+                                    <label>
+                                        Telefone
+                                    </label>
+                                    <input class="form-control" type="text" placeholder="xx xxxx xxxx" name="email" required="">
+                                </div>
+                                <div class="form-group d-flex">
+                                    <label>
+                                        Mensagem
+                                    </label>
+                                    <textarea class="form-control" rows="5" id="contactcomment" placeholder="Digite sua mensagem" required></textarea>
+                                </div>
+                                <div class="d-flex justify-content-end">
+                                    <button type="submit" class="btn btn-agile btn-block w-25">Enviar</button>
+                                </div>
+                            </form>
+                        </div>
+                        <!--  //contact form grid ends here -->
+                    </div>
+
+                </div>
+                <!-- //contact details container -->
+            </div>
+        </div>
+        <!-- //contact -->
+        <!-- Footer -->
+        <footer id="footer" class="py-5">
+            <div class="container">
+                <div class="row  py-lg-5">
+                    <div class="col-lg-3 col-sm-6 footer-logo">
+                        <h5>Sobre nós</h5>
+                        <h2>
+                            <a href="index.html">
+                                Etec
+                                <span>comendador joão rays</span>
+                            </a>
+                        </h2>
+                        <p class="mt-3">Enquanto houver força e fé para lutar não haverá obstáculos insuperáveis ! </p>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 mt-sm-0 mt-4">
+                        <h5>links rápido </h5>
+                        <ul class="list-unstyled quick-links">
+                            <li>
+                                <a href="#">
+                                    <i class="fa fa-angle-double-right"></i>Inicio
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#about" class="scroll">
+                                    <i class="fa fa-angle-double-right"></i>Projeto
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#services" class="scroll">
+                                    <i class="fa fa-angle-double-right"></i>Vagas
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#blog" class="scroll">
+                                    <i class="fa fa-angle-double-right"></i>Eventos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#contact" class="scroll">
+                                    <i class="fa fa-angle-double-right"></i>Contato
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 mt-lg-0 mt-4">
+                        <h5>Horário de aula</h5>
+                        <ul class="list-unstyled quick-links">
+                            <li>
+                                Manhã
+                                <br>
+                                <span> 7.00 - 12.00 </span>
+                            </li>
+                            <li>
+                                Tarde
+                                <br>
+                                <span> 13.30 - 17.40 </span>
+                            </li>
+                            <li>
+                                Noite
+                                <br>
+                                <span> 19.10 - 22.50 </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 footer_grid1 mt-lg-0 mt-4">
+                        <h5>Endereço</h5>
+                        <div class="fv3-contact">
+                            <span class="fas fa-envelope-open mr-2"></span>
+                            <p>
+                                <a href="https://www.vestibulinhoetec.com.br/home/">vestibulinhoetec.com.br</a>
+                            </p>
+                        </div>
+                        <div class="fv3-contact my-2">
+                            <span class="fas fa-phone-volume mr-2"></span>
+                            <p>Telefone: (14) 3641-1310</p>
+                        </div>
+                        <div class="fv3-contact">
+                            <span class="fas fa-home mr-2"></span>
+                            <p>Rua Ludovico Victório, 2140 - Vila Hab., Barra Bonita - SP,
+                                <br> 17340-000.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="cpy-right text-center py-4">
+            <p>
+                © 2018 Precedence. All rights reserved | Design by//
+                <a href="http://w3layouts.com"> W3layouts.</a>
+            </p>
+        </div>
+    </div>
+    <!-- /Footer -->
+    <!-- js-->
+    <script src="~/Assets/js/jquery-2.2.3.min.js"></script>
+    <!-- js-->
+    <!-- Scrolling Nav JavaScript -->
+    <script src="~/Assets/js/scrolling-nav.js"></script>
+    <!-- //fixed-scroll-nav-js -->
+    <script>
+        $(window).scroll(function () {
+            if ($(document).scrollTop() > 70) {
+                $('nav.pagescrollfix,nav.RWDpagescrollfix').addClass('shrink');
+            } else {
+                $('nav.pagescrollfix,nav.RWDpagescrollfix').removeClass('shrink');
+            }
+        });
+    </script>
+    <!-- Banner text Responsiveslides -->
+    <script src="~/Assets/js/responsiveslides.min.js"></script>
+    <script>
+        // You can also use"$(window).load(function() {"
+        $(function () {
+            // Slideshow 4
+            $("#slider3").responsiveSlides({
+                auto: true,
+                pager: true,
+                nav: false,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+    <!-- //Banner text  Responsiveslides -->
+    <!-- start-smooth-scrolling -->
+    <script src="~/Assets/js/move-top.js"></script>
+    <script src="~/Assets/js/easing.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smooth-scrolling -->
+    <!-- smooth-scrolling-of-move-up -->
+    <script>
+        $(document).ready(function () {
+            /*
+			 var defaults = {
+				 containerID: 'toTop', // fading element id
+				 containerHoverID: 'toTopHover', // fading element hover id
+				 scrollSpeed: 1200,
+				 easingType: 'linear'
+			 };
+			 */
+
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <script src="~/Assets/js/SmoothScroll.min.js"></script>
+    <!-- //smooth-scrolling-of-move-up -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Assets/js/bootstrap.js">
+    </script>
+    <!-- //Bootstrap Core JavaScript -->
+</body>
+
+</html>

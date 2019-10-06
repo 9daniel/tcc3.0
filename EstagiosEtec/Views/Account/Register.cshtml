@@ -1,0 +1,73 @@
+﻿@model EstagiosEtec.Models.RegisterViewModel
+@{
+
+}
+
+<link href="~/Assets/css/bootstrap.css" rel="stylesheet" />
+<link href="~/Assets/css/fontawesome-all.min.css" rel="stylesheet" />
+<h2>@ViewBag.Title</h2>
+
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Novo Cadastro </h4>
+    <hr />
+    @Html.ValidationSummary()
+
+    <label class="a">Nome de Usuário:</label>
+    <input class="form-control" data-val="true" data-val-required="Nome de Usuário é Obrigatório." id="Nome" placeholder="Nome " name="UserName"
+           type="text" value="" />
+
+    <br>
+    <label> Selecione seu Curso: </label>
+    <br>
+
+    <select id=" estados_id " name=" Cursos ">
+
+        <option value="Cursos"></option>
+        <option value="Cursos">Logística</option>
+        <option value="Cursos">marketing</option>
+        <option value="Cursos">Secretariado</option>
+        <option value="Cursos">Administração</option>
+        <option value="Cursos">Contabilidade</option>
+        <option value="Cursos">Informática para Internet</option>
+        <option value="Cursos">Desenvolvimento de Sistemas</option>
+
+    </select>
+
+    <br>
+
+    <br />
+
+    <label>Endereço: </label>
+    <input class="form-control" data-val="true" data-val-required="Preencha o Campo Endereço." id="Endereço" placeholder="Digite seu Endereço" name="Endereço"
+           type="text" value="" />
+
+    <br>
+
+    <label>Telefone: </label>
+    <input class="form-control" data-val="true" data-val-required="Preencha o Campo Telefone." id="Telefone" placeholder="Digite seu Telefone" name="Telefone"
+           type="text" value="" />
+
+    <br />
+
+    <label>Senha:</label>
+    <input required="required" type="password" name="password" id="password" placeholder="Criar Senha" class="form-control" data-val="true" data-val-required="Preencha o Campo Senha." />
+    <button type="button" id="show_password" name="show_password" class="fa fa-eye-slash" aria-hidden="true"></button>
+    <br /><br>
+
+    <label> Confirmar Senha:</label>
+    <input required="required" type="password" name="ConfirmPassword" id="ConfirmPassword" placeholder="" class="form-control" data-val="true" data-val-required="Preencha o Campo Confirmar Senha." />
+    <button type="button" id="show_re_password" name="show_re_password" class="fa fa-eye-slash" aria-hidden="true"></button>
+
+    
+    
+    <br /><br />
+    <input type="submit" class="btn btn-danger" value="Continuar" />
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
